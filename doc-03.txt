@@ -8,3 +8,7 @@ Testing for git commands..
 
 Doc-03 file
 
+few texts we have added
+
+Few more edits have been done in this doc on 06 Oct 2017 - @ 10.23am
+
